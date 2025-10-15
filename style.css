@@ -14,7 +14,7 @@ body {
 }
 
 .header {
-  background-color: #0f1011;
+  background-color: #141516;
   border-bottom: 1px solid #222;
   padding: 30px 20px;
   text-align: center;
@@ -137,7 +137,7 @@ body {
 }
 
 .footer {
-  background-color: #0f1011;
+  background-color: #141516;
   text-align: center;
   padding: 20px;
   font-size: 0.9rem;
